@@ -26,7 +26,7 @@
 
   <groupId>org.obsidiantoaster.quickstart</groupId>
   <artifactId>swarm-rest-jdbc</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0.Dummy</version>
   <packaging>war</packaging>
 
   <name>swarm-rest-jdbc</name>
